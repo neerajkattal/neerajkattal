@@ -1,80 +1,102 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=Neeraj%20Kattal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MSc%20Software%20Engineering&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=Neeraj%20Kattal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20MSc%20Software%20Engineering%20Student&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;FastAPI+%2B+React.js+%7C+Python;Building+Production-Ready+Apps;MSc+Software+Engineering+Student;Open+to+Internships+in+Auckland+%F0%9F%87%B3%F0%9F%87%BF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;FastAPI+%7C+React.js+%7C+Python;Building+Production-Ready+Applications;MSc+Software+Engineering+Student;Open+to+Software+Development+Internships+in+New+Zealand" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views + Social Badges -->
 <img src="https://komarev.com/ghpvc/?username=neerajkattal&label=Profile+Views&color=3b82f6&style=flat" alt="Profile Views"/>
-&nbsp;
-<a href="https://neerajkattal.github.io"><img src="https://img.shields.io/badge/Portfolio-neerajkattal.github.io-3b82f6?style=flat&logo=github"/></a>
-&nbsp;
-<a href="mailto:kattalneeraj7@gmail.com"><img src="https://img.shields.io/badge/Email-kattalneeraj7%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+
+<a href="https://neerajkattal.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-neerajkattal.github.io-3b82f6?style=flat&logo=github"/>
+</a>
+
+<a href="mailto:kattalneeraj7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kattalneeraj7%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
 ```python
 neeraj = {
-    "name":       "Neeraj Kattal",
-    "location":   "Silverdale, Auckland, New Zealand 🇳🇿",
-    "education":  "MSc Software Engineering — Yoobee College, Auckland",
-    "currently":  "Building full-stack apps & seeking IT internships",
-    "languages":  ["Python", "JavaScript", "HTML5", "CSS3", "SQL", "C++"],
+    "name": "Neeraj Kattal",
+    "location": "Auckland, New Zealand 🇳🇿",
+    "education": "MSc Software Engineering — Yoobee College",
+    "currently": "Building full-stack applications and seeking software development internships",
+    "languages": ["Python", "JavaScript", "HTML5", "CSS3", "SQL", "C++"],
     "frameworks": ["FastAPI", "React.js", "Flask", "SQLAlchemy"],
-    "tools":      ["Git", "GitHub", "Postman", "VS Code", "Vercel", "Render"],
-    "available":  True
+    "tools": ["Git", "GitHub", "Postman", "VS Code", "Vercel", "Render"],
+    "available_for_work": True
 }
 ```
 
+### 🚀 Current Focus
+
+- Building scalable full-stack web applications
+- Developing REST APIs using FastAPI
+- Creating responsive UIs with React.js
+- Learning cloud deployment and DevOps practices
+- Seeking Software Development Internships and Graduate Opportunities
+
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
-### 🗂️ Full Stack Task Manager
-> React.js + FastAPI + JWT Auth + SQLite — Deployed on Vercel & Render
+## 🗂️ Full Stack Task Manager
+
+**Tech Stack:** React.js • FastAPI • JWT Authentication • SQLite
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000?style=for-the-badge&logo=vercel)](https://smart-task-manager-self-five.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/neerajkattal/smart-task-manager)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/neerajkattal/smart-task-manager)
 
-- 🔐 JWT authentication, secure login & protected routes
-- ✅ Full CRUD with pagination and responsive UI
-- 🌐 Deployed to production with live public access
+### Features
+
+- 🔐 JWT-based authentication and protected routes
+- ✅ Full CRUD functionality with pagination
+- 📱 Responsive user interface
+- 🌐 Production deployment using Vercel and Render
 
 ---
 
-### 📝 Blog Management System
-> FastAPI + SQLite + SQLAlchemy + Jinja2 — Deployed on Render
+## 📝 Blog Management System
+
+**Tech Stack:** FastAPI • SQLite • SQLAlchemy • Jinja2
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=000)](https://fastapi-blog-stle.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/neerajkattal/FastApi-Blog)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/neerajkattal/FastApi-Blog)
 
-- 🔑 User auth, forgot-password & email reset flows
-- 🖼️ Image upload, pagination, full CRUD for posts & profiles
-- ⚡ Async SQLAlchemy ORM with GitHub-linked deployment
+### Features
+
+- 🔑 User authentication and password reset workflows
+- 🖼️ Image uploads and profile management
+- 📝 Full CRUD operations for blog posts
+- ⚡ Built with Async SQLAlchemy
+- 🚀 Deployed on Render
 
 ---
 
-### 🎬 YouTube UI Clone
-> Pure HTML5 + CSS3 — No frameworks
+## 🎬 YouTube UI Clone
+
+**Tech Stack:** HTML5 • CSS3
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-222?style=for-the-badge&logo=github)](https://neerajkattal.github.io/Projects/youtube/youtube.html)
 
-- 📐 Flexbox + CSS Grid layout
-- 📱 Fully responsive — sidebar, navbar, video cards
+### Features
+
+- 📐 Built using Flexbox and CSS Grid
+- 📱 Fully responsive layout
+- 🎨 Clean recreation of YouTube's user interface
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -97,44 +119,60 @@ neeraj = {
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajkattal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajkattal&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=neerajkattal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajkattal&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajkattal&theme=tokyonight&hide_border=true" width="60%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajkattal&theme=tokyonight&hide_border=true" width="60%"/>
+
 </div>
 
 ---
 
-## 💼 Experience
+# 💼 Professional Experience
 
-| Role | Company | Period |
-|---|---|---|
-| 🛒 Team Member — Replenishment | Woolworths New Zealand | May 2026 – Present |
-| 💻 Tech Analyst | eClerx Services Limited | Feb 2022 – Mar 2023 |
+| Position | Company | Duration |
+|-----------|----------|------------|
+| 💻 Technical Analyst | eClerx Services Limited | Feb 2022 – Mar 2023 |
 | 📈 Sales & Marketing Intern | Master-O (InspireOne Technologies) | Jun 2024 – Sep 2024 |
+| 🛒 Team Member – Replenishment | Woolworths New Zealand | May 2025 – Present |
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-| Degree | Institution | Year |
-|---|---|---|
-| 🎓 MSc Software Engineering | Yoobee College, Auckland, NZ | 2026 – Present |
-| 🎓 BCA — Bachelor of Computer Applications | Panjab University, India | 2020 – 2023 |
+| Degree | Institution | Duration |
+|----------|-------------|------------|
+| 🎓 MSc Software Engineering | Yoobee College, Auckland, New Zealand | 2025 – 2026 |
+| 🎓 Bachelor of Computer Applications (BCA) | Panjab University, India | 2020 – 2023 |
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+### 🤝 Open to Software Development Internships & Graduate Opportunities in New Zealand
+
+📧 **kattalneeraj7@gmail.com**
+
+🌐 **https://neerajkattal.github.io**
+
+📍 **Auckland, New Zealand**
+
+</div>
 
 ---
 
 <div align="center">
-
-### 🤝 Open to Internships & Graduate Roles in New Zealand
-
-📧 kattalneeraj7@gmail.com &nbsp;|&nbsp; 🌐 [neerajkattal.github.io](https://neerajkattal.github.io) &nbsp;|&nbsp; 📍 Auckland, NZ
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=100&section=footer" width="100%"/>
 
