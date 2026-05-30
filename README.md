@@ -22,20 +22,13 @@
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
-```python
-neeraj = {
-    "name": "Neeraj Kattal",
-    "location": "Auckland, New Zealand 🇳🇿",
-    "education": "MSc Software Engineering — Yoobee College",
-    "currently": "Building full-stack applications and seeking software development internships",
-    "languages": ["Python", "JavaScript", "HTML5", "CSS3", "SQL", "C++"],
-    "frameworks": ["FastAPI", "React.js", "Flask", "SQLAlchemy"],
-    "tools": ["Git", "GitHub", "Postman", "VS Code", "Vercel", "Render"],
-    "available_for_work": True
-}
-```
+- 🎓 MSc Software Engineering student at Yoobee College
+- 💻 Full-Stack Developer specializing in FastAPI and React.js
+- 🌏 Based in Auckland, New Zealand
+- 🚀 Building production-ready web applications
+- 🔍 Seeking Software Development Internships and Graduate Roles
 
 ### 🚀 Current Focus
 
