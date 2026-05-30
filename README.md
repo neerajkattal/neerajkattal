@@ -115,18 +115,12 @@
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=neerajkattal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajkattal&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
+<img src="https://streak-stats.demolab.com?user=neerajkattal&theme=tokyonight" />
 </div>
 
-<div align="center">
+# 📈 Contribution Graph
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajkattal&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
+[![Neeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neerajkattal&theme=tokyo-night)](https://github.com/neerajkattal)
 
 ---
 
