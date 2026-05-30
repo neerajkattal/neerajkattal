@@ -136,7 +136,7 @@
 |-----------|----------|------------|
 | 💻 Technical Analyst | eClerx Services Limited | Feb 2022 – Mar 2023 |
 | 📈 Sales & Marketing Intern | Master-O (InspireOne Technologies) | Jun 2024 – Sep 2024 |
-| 🛒 Team Member – Replenishment | Woolworths New Zealand | May 2025 – Present |
+| 🛒 Team Member – Replenishment | Woolworths New Zealand | May 2026 – Present |
 
 ---
 
@@ -144,7 +144,7 @@
 
 | Degree | Institution | Duration |
 |----------|-------------|------------|
-| 🎓 Master of Software Engineering | Yoobee College, Auckland, New Zealand | 2025 – 2026 |
+| 🎓 Master of Software Engineering | Yoobee College, Auckland, New Zealand | 2026 – Present |
 | 🎓 Bachelor of Computer Applications (BCA) | Panjab University, India | 2020 – 2023 |
 
 ---
