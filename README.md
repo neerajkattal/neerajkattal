@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=Neeraj%20Kattal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Master of%20Software%20Engineering%20Student&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=Neeraj%20Kattal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Master%20of%20Software%20Engineering%20Student&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;FastAPI+%7C+React.js+%7C+Python;Building+Production-Ready+Applications;Master+of+Software+Engineering+Student;Open+to+Software+Development+Internships+in+New+Zealand" alt="Typing SVG" />
