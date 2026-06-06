@@ -44,7 +44,7 @@
 
 ## 🗂️ Full Stack Task Manager
 
-**Tech Stack:** React.js • FastAPI • JWT Authentication • SQLite
+**Tech Stack:** React.js • FastAPI • JWT Authentication • SQLite • Docker • Docker Compose
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000?style=for-the-badge&logo=vercel)](https://smart-task-manager-self-five.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/neerajkattal/smart-task-manager)
@@ -54,7 +54,20 @@
 - 🔐 JWT-based authentication and protected routes
 - ✅ Full CRUD functionality with pagination
 - 📱 Responsive user interface
+- 🐳 Containerized with Docker and Docker Compose for consistent local development
 - 🌐 Production deployment using Vercel and Render
+
+### Docker
+
+Run locally with Docker Compose:
+
+```bash
+docker compose up --build
+```
+
+Frontend: http://localhost:3000  
+Backend API: http://localhost:8000  
+API Docs: http://localhost:8000/docs
 
 ---
 
