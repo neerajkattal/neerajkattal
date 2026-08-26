@@ -10,7 +10,7 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=neerajkattal&style=flat-square&color=blue" /> -->
 
-<a href="https://neerajkattal.github.io">
+<a href="https://neerajkattal.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-neerajkattal.github.io-3b82f6?style=flat&logo=github"/>
 </a>
 
