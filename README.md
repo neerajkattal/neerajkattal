@@ -42,63 +42,16 @@
 
 # 🚀 Featured Projects
 
-## 🗂️ Full Stack Task Manager
+| Project | Description | Stack | Live | Code |
+|---|---|---|---|---|
+| 🎮 **PlayToLearn** | Full-stack gamified trivia platform — questions are answered through two Phaser mini-games instead of plain multiple choice, with server-authoritative scoring, real auth (XP/streaks/leaderboard), an admin dashboard, and 377 automated tests. | React · TypeScript · FastAPI · PostgreSQL · Redis · Docker | [Live](https://playtolearn-five.vercel.app) | [GitHub](https://github.com/neerajkattal/microlearning-platform) |
+| ✅ **Full Stack Task Manager** | Production-style task manager with JWT auth, protected routes, and full CRUD with pagination, containerized for dev/prod parity. | React · FastAPI · JWT · SQLite · Docker Compose | [Live](https://smart-task-manager-self-five.vercel.app/) | [GitHub](https://github.com/neerajkattal/smart-task-manager) |
+| 📝 **Blog Management System** | Blog platform with account management, a full forgot/reset-password email flow, and image uploads, on an async SQLAlchemy backend. | FastAPI · SQLAlchemy (async) · SQLite · Jinja2 | [Live](https://fastapi-blog-stle.onrender.com) | [GitHub](https://github.com/neerajkattal/FastApi-Blog) |
+| 🌦️ **WeatherWear+** | Outfit recommendation app pairing live weather data with an AI assistant. Built with a project partner — I own the backend end-to-end (weather API integration, recommendation logic, AI suggestions via Groq). | FastAPI · React · PostgreSQL · Groq API · Docker | [Live](https://weather-wear-plus.vercel.app/) | Shared academic repo (private) |
+| 🇮🇳 **English–Hindi Quiz** | Vocabulary quiz for beginners learning Hindi — topic tracking, per-topic high scores, answer streaks, a mistake-review mode, and spoken pronunciation via the Web Speech API. | React · FastAPI · Python | [Live](https://english-hindi-quiz-game.vercel.app) | [GitHub](https://github.com/neerajkattal/english-hindi-quiz-game) |
+| 🎬 **YouTube UI Clone** | Pixel-faithful recreation of the YouTube homepage — layout and DOM-interaction practice, no frameworks. | HTML5 · CSS3 · Flexbox · Grid | [Live](https://neerajkattal.github.io/Projects/youtube/youtube.html) | — |
 
-**Tech Stack:** React.js • FastAPI • JWT Authentication • SQLite • Docker • Docker Compose
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000?style=for-the-badge&logo=vercel)](https://smart-task-manager-self-five.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/neerajkattal/smart-task-manager)
-
-### Features
-
-- 🔐 JWT-based authentication and protected routes
-- ✅ Full CRUD functionality with pagination
-- 📱 Responsive user interface
-- 🐳 Containerized with Docker and Docker Compose for consistent local development
-- 🌐 Production deployment using Vercel and Render
-
-### Docker
-
-Run locally with Docker Compose:
-
-```bash
-docker compose up --build
-```
-
-Frontend: http://localhost:3000  
-Backend API: http://localhost:8000  
-API Docs: http://localhost:8000/docs
-
----
-
-## 📝 Blog Management System
-
-**Tech Stack:** FastAPI • SQLite • SQLAlchemy • Jinja2
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=000)](https://fastapi-blog-stle.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/neerajkattal/FastApi-Blog)
-
-### Features
-
-- 🔑 User authentication and password reset workflows
-- 🖼️ Image uploads and profile management
-- 📝 Full CRUD operations for blog posts
-- ⚡ Built with Async SQLAlchemy
-- 🚀 Deployed on Render
-
----
-
-## 🎬 YouTube UI Clone
-
-**Tech Stack:** HTML5 • CSS3
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-222?style=for-the-badge&logo=github)](https://neerajkattal.github.io/Projects/youtube/youtube.html)
-
-### Features
-
-- 📐 Built using Flexbox and CSS Grid
-- 📱 Fully responsive layout
-- 🎨 Clean recreation of YouTube's user interface
+Full write-ups and screenshots for all of these are on my [portfolio site](https://neerajkattal.vercel.app/).
 
 ---
 
@@ -164,7 +117,7 @@ API Docs: http://localhost:8000/docs
 
 📧 **kattalneeraj7@gmail.com**
 
-🌐 **https://neerajkattal.github.io**
+🌐 **https://neerajkattal.vercel.app**
 
 📍 **Auckland, New Zealand**
 
